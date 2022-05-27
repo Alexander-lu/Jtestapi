@@ -8,11 +8,11 @@ JTest1.0 是 单元测试API，模仿的是JUnit
 软件架构说明
 
 
-#### 安装教程
+#### 导包教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+import static JTest.JAssertions.*;
+import JTest.JTest;
+import JTest.JTestRunner;
 
 #### 使用说明
 
