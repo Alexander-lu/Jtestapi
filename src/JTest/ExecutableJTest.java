@@ -1,6 +1,5 @@
 package JTest;
 
-public class ExecutableJTest {
-    void execute() throws Throwable {
-    }
+public interface ExecutableJTest {
+    void execute() throws Throwable;
 }
