@@ -2,10 +2,15 @@
 
 #### 介绍
 {**以下是 JTest1.0 API说明**
-JTest1.0 是 单元测试API，模仿的是JUnit
+JTest1.0 是 单元测试用API，模仿的是JUnit
 
 #### 软件架构
-软件架构说明
+
+ExecutableJTest是接口，主要用于assertThrows()
+JAssertions是所有的断言方法
+JTest是@JTest注解
+JTestResult封装了2个String
+JTestRunnerz是主程序
 
 
 #### 导包教程
